@@ -1,16 +1,22 @@
 {
-  "name": "Timer - TV",
-  "short_name": "TimerTV",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#f4f7f6",
-  "theme_color": "#2c3e50",
-  "icons": [
-    {
-      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMmMzZTUwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMyIgcj0iOCI+PC9jaXJjbGU+PHBhdGggZD0iTTEyIDl2NGwyIDIiPjwvcGF0aD48cGF0aCBkPSJNNSAzTDIgNiI+PC9wYXRoPjxwYXRoIGQ9Ik0xOSAzbDMgMyI+PC9wYXRoPjxwYXRoIGQ9Ik0xMCAyaDQiPjwvcGF0aD48L3N2Zz4=",
-      "sizes": "192x192 512x512",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ]
+"name": "Timer - TV",
+"short_name": "TimerTV",
+"start_url": "./index.html",
+"display": "standalone",
+"background_color": "#f4f7f6",
+"theme_color": "#2c3e50",
+"icons": [
+{
+"src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSJub25lIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjExMCIgZmlsbD0iI2Y0ZjdmNiIvPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI3NiIgcj0iMTcwIiBmaWxsPSIjZmZmIiBzdHJva2U9IiMyYzNlNTAiIHN0cm9rZS13aWR0aD0iMzIiLz48cGF0aCBkPSJNMjU2IDE2MHYxMTZsNjAgNjAiIHN0cm9rZT0iI2U3NGMzYyIgc3Ryb2tlLXdpZHRoPSIzMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PHBhdGggZD0iTTE4MCA0MEgzMzIiIHN0cm9rZT0iIzNjNWE5OSIgc3Ryb2tlLXdpZHRoPSIzMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PHBhdGggZD0iTTI1NiA0MFY4MCIgc3Ryb2tlPSIjM2M1YTk5IiBzdHJva2Utd2lkdGg9IjMyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48cGF0aCBkPSJNMzkwIDEzMEw0MzIgODgiIHN0cm9rZT0iIzMyY2QzMiIgc3Ryb2tlLXdpZHRoPSIzMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PC9zdmc+",
+"sizes": "192x192 512x512",
+"type": "image/svg+xml",
+"purpose": "any"
+},
+{
+"src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSJub25lIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjExMCIgZmlsbD0iI2Y0ZjdmNiIvPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI3NiIgcj0iMTcwIiBmaWxsPSIjZmZmIiBzdHJva2U9IiMyYzNlNTAiIHN0cm9rZS13aWR0aD0iMzIiLz48cGF0aCBkPSJNMjU2IDE2MHYxMTZsNjAgNjAiIHN0cm9rZT0iI2U3NGMzYyIgc3Ryb2tlLXdpZHRoPSIzMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PHBhdGggZD0iTTE4MCA0MEgzMzIiIHN0cm9rZT0iIzNjNWE5OSIgc3Ryb2tlLXdpZHRoPSIzMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PHBhdGggZD0iTTI1NiA0MFY4MCIgc3Ryb2tlPSIjM2M1YTk5IiBzdHJva2Utd2lkdGg9IjMyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48cGF0aCBkPSJNMzkwIDEzMEw0MzIgODgiIHN0cm9rZT0iIzMyY2QzMiIgc3Ryb2tlLXdpZHRoPSIzMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PC9zdmc+",
+"sizes": "192x192 512x512",
+"type": "image/svg+xml",
+"purpose": "maskable"
+}
+]
 }
